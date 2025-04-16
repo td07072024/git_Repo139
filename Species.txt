@@ -1,0 +1,13 @@
+Species
+Species	Binomial authority	Description	Range
+Black-backed jackal
+Lupulella mesomelas
+
+
+Schreber, 1775	The most lightly built jackal, once considered to be the oldest living member of the genus Canis,[13] it is now placed in the genus Lupulella. It is the most aggressive of the jackals, being known to attack animal prey many times its own weight, and it has more quarrelsome intrapack relationships.[14]	Southern Africa and eastern coast of Kenya, Somalia, and Ethiopia
+Side-striped jackal
+Lupulella adustus
+	Sundevall, 1847	It primarily resides in wooded areas, unlike other jackal species. It is the least aggressive of the jackals, rarely preying on large mammals.[15]	Central and southern Africa
+Golden jackal
+Canis aureus
+	Linnaeus, 1758	The largest and most widespread of the jackals, it is more closely related to wolves than to African jackal species.	Southeastern Europe, Middle East, western Asia, and South Asia
